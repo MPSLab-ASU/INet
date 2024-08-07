@@ -1,5 +1,17 @@
-- filename: stock1.JPG
-  caption: Random Caption 1 
+- filename: num_vehicles2.png
+  caption: The plot of the vehicle counts for a 24-hour period from the Department of Transportation of Tempe for the 12 roads between the placed sensors of interest from the selected Tempe region.
 
-- filename: stock2.JPG
-  caption: Random Caption 2 with **bold** text 
+- filename: fitted_curve_with_boundaries.png
+  caption: Representation of averaged ground-truth vehicle counts and generated traffic flow model. To ensure variance in generated vehicle counts, we add a small deviation $alpha$.
+
+- filename: tempe_intersections.png
+  caption: Shows A Tempe, AZ region selected as the test area for our implementations. All the plotted points indicate the locations where cameras can be deployed for simulation. However, the deployed locations are highlighted in red to make the deployment of cameras similar to the real world.
+
+- filename: block_diagram.png
+  caption: The block diagram depicts IncidentNet's architecture. The raw data from the simulator is transformed into processed data. For training, all data points are used for the incident detection model, and data points with positive incident labels are used for incident localization and severity estimation models. During the prediction phase, localization and severity estimation models depend on the incident detection model's prediction.
+
+- filename: ks_test.png
+  caption: The KS Statistic and the p-value obtained from the KS test for the four days of data made available by Tempe are shown. The p-value threshold is indicated as the red line.
+
+- filename: traffic_incident_detection_metrics_v2.png
+  caption: Our approaches' performance with consideration for different sparsity levels. Notice that the incident detection rate is still high for sparsity, as high as 93%. Tabnet performs better in incident detection with a low false alarm rate.
