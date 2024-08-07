@@ -1,21 +1,35 @@
-- name: Vinayak Sharma
-  github: vinayak19th
-  linkedin: vinayak19th
-  email: vsharm87@asu.edu
-  position: MS in CS
+- name: Sai Shashank Peddiraju
+  github: psaishashank
+  linkedin: sai-shashank-peddiraju
+  email: speddira@asu.edu
+  position: M.S. in RAS
   organization: Arizona State University
-  sub_organization: School of Computing and Augmented Intelligence
-  website: vinayak19th.github.io
+  sub_organization: School for Engineering of Matter, Transport and Energy
   primary: true
 
-- name: Shail Dave
-  position: PhD 
-  github: shail-dave
-  email: Shail.Dave@asu.edu 
-  linkedin: daveshail
+- name: Kaustubh Harapanahalli
+  github: kaustubhharapanahalli
+  linkedin: kmhalli
+  email: kharapan@asu.edu
+  position: M.S. in CS
   organization: Arizona State University
   sub_organization: School of Computing and Augmented Intelligence
-  google_scholar: https://scholar.google.com/citations?hl=en&user=SVft2R0AAAAJ&view_op=list_works
-  website: https://sites.google.com/view/shail/
+  primary: true
 
-  
+- name: Edward Andert
+  github: eandert
+  linkedin: eddie-andert-00428056
+  email: edward.andert@asu.edu
+  position: Ph.D.
+  organization: Arizona State University
+  sub_organization: School of Computing and Augmented Intelligence
+  primary: false
+
+- name: Aviral Shrivastava
+  github: aviralshri
+  linkedin: aviral
+  email: aviral.shrivastava@asu.edu
+  position: Professor
+  organization: Arizona State University
+  sub_organization: School of Computing and Augmented Intelligence
+  primary: false
