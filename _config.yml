@@ -1,10 +1,10 @@
 ######################## Paper Information ########################################
 # Personal info
-paper_name: "MPS-LAB Paper Page Template"
+paper_name: "IncidentNet: Traffic Incident Detection, Localization and Severity Estimation with Sparse Sensing"
 
-organization: Arizona State University 
-sub_organization: School of Computing and Augmented Intelligence 
-preprint : True
+organization: Arizona State University
+sub_organization: School of Computing and Augmented Intelligence
+preprint : False
 
 ######################## Paper Resources ########################################
 
